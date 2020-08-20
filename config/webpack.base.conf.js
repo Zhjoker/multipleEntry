@@ -41,7 +41,7 @@ module.exports = {
     rules: [
       {
         test: /\.(html|htm)$/i,
-        use: 'html-img-loader', // 解析 html中的图片资源
+        use: 'img-html-loader', // 解析 html中的图片资源
       },
       {
         test: /\.css$/,
