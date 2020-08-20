@@ -9,7 +9,7 @@ src
 │  └─img 
 └─pages
     ├─index
-    └─other //实例页面
+    └─other //示例页面
         ├─.*html
         ├─.*css
         └─*js
